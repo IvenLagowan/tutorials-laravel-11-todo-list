@@ -1,0 +1,1 @@
+<h1>Halo {{ $nama }} Ada kirim ko uang</h1>
